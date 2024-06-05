@@ -3,7 +3,7 @@ import express, { Express } from "express";
 import { api, web } from "./routes";
 
 const app: Express = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 8000;
 
 // parse requests of content-type - application/json
 app.use(express.json());

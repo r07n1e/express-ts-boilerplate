@@ -1,5 +1,3 @@
-### Boilerplate for ExpressJS with Typescript
+### Express-TS-Boilerplate
 
-
-**_Technologies included:_**
-* Sequalize for ORM
+A starting point for web application project using ExpressJS.
