@@ -7,6 +7,7 @@
   <p>A starting point for project development using ExpressJS with Typescript, ORM pre-configured.</p>
 </div>
 <hr>
+
 <div>
     <h3>Start Development</h3>
   <ul>
