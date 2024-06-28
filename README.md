@@ -24,3 +24,4 @@ TODO:
 - [ ] Configure multipart/form, file system
 - [ ] Configure Authentication, `Passport` | `JWT` | `OAuth2`
 - [ ] Setup a way to easily connect to frontend
+- [ ] Add many middlewares for seamless development
