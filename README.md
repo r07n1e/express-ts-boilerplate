@@ -7,15 +7,10 @@
   <p>A starting point for project development using ExpressJS with Typescript, ORM pre-configured.</p>
 
   <h3>Start Development</h3>
-
-```bash
-  git clone https://github.com/r07n1e/express-ts-boilerplate.git
-```
-```bash
-  cd [your-project-name]
-```
-```bash
-  npm install
-```
+  - Fork this template into your github
+  - Create new repository by using this template
+  - Clone your project into your local machine or computer
+  - Change directory `cd` into your project
+  - Then install all dependencies | `npm install`
   
 </div>
