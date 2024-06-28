@@ -4,7 +4,7 @@
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,expressjs" />
   </a>
 
-  <p>A starting point for developing project using ExpressJS with Typescript, ORM pre-configured.</p>
+  <p>A starting point for developing project using ExpressJS with Typescript, ORM (Sequalize) pre-configured.</p>
 </div>
 <hr>
 
@@ -18,3 +18,9 @@
     <li> Then <code>npm install</code> dependencies </li>
   </ul>
 </div>
+
+
+TODO:
+[] Configure multipart/form, file system
+[] Configure Authentication, `Passport` | `JWT` | `OAuth2`
+[] Setup a way to easily connect to frontend
