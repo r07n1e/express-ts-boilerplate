@@ -19,6 +19,8 @@
   </ul>
 </div>
 
+NOTE:
+>> The project structure is heavily inspired by Laravel (specifically version 10).
 
 TODO:
 - [ ] Configure multipart/form, file system
