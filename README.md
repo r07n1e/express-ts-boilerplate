@@ -21,6 +21,6 @@
 
 
 TODO:
-[ ] Configure multipart/form, file system
-[ ] Configure Authentication, `Passport` | `JWT` | `OAuth2`
-[ ] Setup a way to easily connect to frontend
+- [ ] Configure multipart/form, file system
+- [ ] Configure Authentication, `Passport` | `JWT` | `OAuth2`
+- [ ] Setup a way to easily connect to frontend
