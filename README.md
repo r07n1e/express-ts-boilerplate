@@ -7,10 +7,11 @@
   <p>A starting point for project development using ExpressJS with Typescript, ORM pre-configured.</p>
 
   <h3>Start Development</h3>
-  - Fork this template into your github
-  - Create new repository by using this template
-  - Clone your project into your local machine or computer
-  - Change directory `cd` into your project
-  - Then install all dependencies | `npm install`
-  
+  <ul>
+    <li> Fork this template into your github </li>
+    <li> Create new repository by using this template </li>
+    <li> Clone your project into your local machine or computer </li>
+    <li> Change directory <code>cd</code> into your project </li>
+    <li> Then install all dependencies | <code>npm install</code> </li>
+  </ul>
 </div>
