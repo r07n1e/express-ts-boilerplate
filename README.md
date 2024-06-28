@@ -15,6 +15,6 @@
     <li> Create new repository by using this template </li>
     <li> Clone your project into your local machine or computer </li>
     <li> Change directory <code>cd</code> into your project </li>
-    <li> Then install all dependencies | <code>npm install</code> </li>
+    <li> Then <code>npm install</code> dependencies </li>
   </ul>
 </div>
