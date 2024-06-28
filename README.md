@@ -7,7 +7,15 @@
   <p>A starting point for project development using ExpressJS with Typescript, ORM pre-configured.</p>
 
   <h3>Start Development</h3>
-  ```bash
-    npm install
-  ```
+
+```bash
+  git clone https://github.com/r07n1e/express-ts-boilerplate.git
+```
+```bash
+  cd [your-project-name]
+```
+```bash
+  npm install
+```
+  
 </div>
