@@ -8,6 +8,6 @@
 
   <h3>Start Development</h3>
   ```bash
- npm install
+    npm install
   ```
 </div>
