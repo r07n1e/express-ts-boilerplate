@@ -5,8 +5,10 @@
   </a>
 
   <p>A starting point for project development using ExpressJS with Typescript, ORM pre-configured.</p>
+</div>
 
-  <h3>Start Development</h3>
+<div>
+    <h3>Start Development</h3>
   <ul>
     <li> Fork this template into your github </li>
     <li> Create new repository by using this template </li>
