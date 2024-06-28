@@ -5,4 +5,8 @@
   </a>
 
   <p>A starting point for project development using ExpressJS with Typescript, ORM pre-configured.</p>
+
+  ```bash
+      npm install
+  ```
 </div>
