@@ -1,3 +1,5 @@
-### Express-TS-Boilerplate
+<div align="center">
+  <h1>Express-TS-Boilerplate</h1>
 
-A starting point for project development using ExpressJS with Typescript, ORM pre-configuration.
+  <p>A starting point for project development using ExpressJS with Typescript, ORM pre-configuration.</p>
+</div>
