@@ -4,7 +4,7 @@
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,expressjs" />
   </a>
 
-  <p>A starting point for developing project using ExpressJS with Typescript, ORM (Sequalize) pre-configured.</p>
+  <p>A starting point for project development using ExpressJS with Typescript, ORM (Sequalize) pre-configured.</p>
 </div>
 <hr>
 
