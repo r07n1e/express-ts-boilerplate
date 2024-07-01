@@ -21,6 +21,7 @@
 
 NOTE:
 > The project structure is heavily inspired by Laravel (specifically version 10).
+> Sidenote: I want to structure the project similar to NestJS project structure, maybe in the future. 
 
 TODO:
 - [ ] Configure multipart/form, file system
