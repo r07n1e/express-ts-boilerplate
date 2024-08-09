@@ -19,11 +19,6 @@
   </ul>
 </div>
 
-NOTE:
-> The project structure is heavily inspired by Laravel (specifically version 10).
->
-> *Sidenote: I want to structure the project similar to NestJS or Django, maybe in the future.*
-
 TODO:
 - [ ] Configure multipart/form, file system
 - [ ] Configure Authentication, `Passport` | `JWT` | `OAuth2`
